@@ -12,7 +12,7 @@ import tk.wmss.imoocapp.R;
 /**
  * Created by wmss_ on 2016/5/21.
  */
-public class ToggleButtonDome extends AppCompatActivity {
+public class ToggleButtonDemo extends AppCompatActivity {
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {

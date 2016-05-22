@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".demoapi.ToggleButtonDome"/>
+        <activity android:name=".demoapi.ToggleButtonDemo"/>
+        <activity android:name=".demoapi.CheckBoxDemo"/>
     </application>
 
 </manifest>

@@ -2,4 +2,6 @@
     <string name="app_name">ImoocApp</string>
     <string name="activity_main_name">Imooc Demo\nApp</string>
     <string name="toggle_button_text">使用ToggleButton按钮实现开关效果</string>
+    <string name="text_view_1_checkBoxDemo">你拥有以下的哪些英雄</string>
+    <string name="check_box_text">复选框CheckBox</string>
 </resources>

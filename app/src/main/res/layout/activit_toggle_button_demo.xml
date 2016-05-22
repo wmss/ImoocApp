@@ -17,6 +17,7 @@
         android:contentDescription="@string/app_name" />
 
     <!-- textOn的值为：true -->
+    <!-- ToggleButton的默认值为：false -->
     <ToggleButton
         android:id="@+id/toggleButtonDemo_toggle_button"
         android:layout_width="match_parent"

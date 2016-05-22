@@ -22,12 +22,29 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <Button
-            android:onClick="toToggleButtonDome"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/toggle_button_text"
-            android:textSize="16sp" />
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <Button
+                android:onClick="toToggleButtonDome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/toggle_button_text"
+                android:textSize="16sp" />
+
+            <Button
+                android:onClick="toCheckBoxDemo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/check_box_text"
+                android:textSize="16sp" />
+
+
+        </LinearLayout>
+
+
 
     </ScrollView>
 
